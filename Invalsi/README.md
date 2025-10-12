@@ -1,0 +1,2 @@
+# Moodle-Cartridges
+Questo repository contiene una raccolta di Moodle Cartridge. Consultare il file README.cmd nella cartella principale per visualizzare la struttura generale dei cartridges e di questo repository. Nella cartella Invalsi abbiamo raccolto le prove Invalsi suddivise per tipologia. Nel folder Math ci sono i cartridge per i test di Matematica. Nel folder GR10  ci sono i cartridge per i test del Grado 10. Nel folder Approssimazione ci sono i test per il Nucleo Curriculare Approssimazione.
